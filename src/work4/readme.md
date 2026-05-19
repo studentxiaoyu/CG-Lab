@@ -17,7 +17,7 @@
 | `src/work4/phong.py` | **【必做】** 基础演示。包含标准的 Phong 局部光照计算，无遮挡与阴影逻辑。 |
 | `src/work4/blinnphong.py` | **【选作】** 进阶展示。完成Blinn-Phong 动态切换，然后把 UI 界面的比例改成比较好看的16：9。 |
 
-## 3. 代码实现逻辑
+## 代码实现逻辑
 
 1. **核心算法一：光线求交与深度测试 (Ray Intersection)**：为屏幕上的每一个像素发射一条射线 $\mathbf{r}(t) = \mathbf{o} + t\mathbf{d}$。
 2. **核心算法二：球光照求交与深度测试 (Shading Model)**：
@@ -40,5 +40,5 @@
 ### 1. 必做：标准 Phong 模型演示
 ![标准 Phong 模型演示](phong.gif)
 
-### 2. 选作：Blinn-Phong 模型演示
+### 2. 选做：Blinn-Phong 模型演示
 ![Blinn-Phong 模型演示](blinnphong.gif)
