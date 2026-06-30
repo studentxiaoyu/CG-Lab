@@ -1,4 +1,5 @@
-# Experiment 3
+# 202411081103 张瑾瑜 计算机科学与技术
+# 实验3
 
 本项目通过使用 Taichi Lang 在 GPU 上实现了经典的 **Bézier 曲线** 绘制，并完成了 **反走样 (Anti-Aliasing)** 与 **均匀三次 B 样条 (B-Spline)** 的选做挑战。
 
